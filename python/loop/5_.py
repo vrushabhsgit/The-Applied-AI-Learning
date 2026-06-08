@@ -6,7 +6,7 @@
 # * Use two lists: one for names and one for bills.
 # * Print: "[Name] paid ₹[amount]"
 
-names = ['ram',"kisna","shankar","hanuman"]
+names = ['Dario',"Sam","Ali","Subhash"]
 amount = [100,200,300,400]
 
 for names, amount in zip(names,amount):
